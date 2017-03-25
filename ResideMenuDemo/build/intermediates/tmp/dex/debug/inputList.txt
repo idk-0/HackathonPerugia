@@ -1,0 +1,4 @@
+/Users/matteoottaviani/Desktop/iDontKnowNew/110sh_idontknow-1/AndroidResideMenu/ResideMenuDemo/build/intermediates/classes/debug
+/Users/matteoottaviani/Desktop/iDontKnowNew/110sh_idontknow-1/AndroidResideMenu/ResideMenuDemo/build/intermediates/pre-dexed/debug/classes-5db2e1c2654131e51429111e72c77357f694332d.jar
+/Users/matteoottaviani/Desktop/iDontKnowNew/110sh_idontknow-1/AndroidResideMenu/ResideMenuDemo/build/intermediates/pre-dexed/debug/nineoldandroids-library-2.4.0-79989f3a95d323541ccae5fa9035eb0236195d39.jar
+/Users/matteoottaviani/Desktop/iDontKnowNew/110sh_idontknow-1/AndroidResideMenu/ResideMenuDemo/build/intermediates/pre-dexed/debug/android-support-v4-b46cd92270d8d54ff0b6d8eeb187e663cbc6929e.jar
